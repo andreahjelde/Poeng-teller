@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3{
+    color: #EEEEEE;
+    text-align: center;
+}
+
+.resultBox{
+    width: 155;
+    height: 120;
+    background-color: #080001;
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;                                 
+    font-size: 90px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+
+button{
+    color: #9AABD8;
+    border-color: #9AABD8;
+    background-color: #1B244A;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;  
+}
